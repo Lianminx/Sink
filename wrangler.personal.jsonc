@@ -32,7 +32,15 @@
     }
   ],
   "r2_buckets": [],
+  "analytics_engine_datasets": [
+    {
+      "binding": "ANALYTICS",
+      "dataset": "lianmin_sink"
+    }
+  ],
   "vars": {
+    "NUXT_CF_ACCOUNT_ID": "67a3bd6eb33d80090214ceb3cb00856e",
+    "NUXT_DATASET": "lianmin_sink",
     "NUXT_DISABLE_AUTO_BACKUP": "true",
     "NUXT_HOME_URL": "https://lianmin.pages.dev",
     "NUXT_PUBLIC_PREVIEW_MODE": "false"
